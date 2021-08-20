@@ -1,0 +1,42 @@
+D:\PROJECT\Năm 3\ID3\ID3\bin\Debug\ID3.exe.config
+D:\PROJECT\Năm 3\ID3\ID3\bin\Debug\ID3.exe
+D:\PROJECT\Năm 3\ID3\ID3\bin\Debug\ID3.pdb
+D:\PROJECT\Năm 3\ID3\ID3\obj\Debug\ID3.csprojResolveAssemblyReference.cache
+D:\PROJECT\Năm 3\ID3\ID3\obj\Debug\ID3.Properties.Resources.resources
+D:\PROJECT\Năm 3\ID3\ID3\obj\Debug\ID3.csproj.GenerateResource.Cache
+D:\PROJECT\Năm 3\ID3\ID3\obj\Debug\ID3.exe
+D:\PROJECT\Năm 3\ID3\ID3\obj\Debug\ID3.pdb
+D:\PROJECT\Năm 3\ID3\ID3\obj\Debug\ID3.Main.resources
+D:\PROJECT\Năm 3\ID3\ID3\obj\Debug\ID3.About.resources
+D:\PROJECT\Năm 3\ID3_LTT\ID3\bin\Debug\ID3.exe.config
+D:\PROJECT\Năm 3\ID3_LTT\ID3\bin\Debug\ID3.exe
+D:\PROJECT\Năm 3\ID3_LTT\ID3\bin\Debug\ID3.pdb
+D:\PROJECT\Năm 3\ID3_LTT\ID3\obj\Debug\ID3.csprojResolveAssemblyReference.cache
+D:\PROJECT\Năm 3\ID3_LTT\ID3\obj\Debug\ID3.About.resources
+D:\PROJECT\Năm 3\ID3_LTT\ID3\obj\Debug\ID3.Main.resources
+D:\PROJECT\Năm 3\ID3_LTT\ID3\obj\Debug\ID3.Properties.Resources.resources
+D:\PROJECT\Năm 3\ID3_LTT\ID3\obj\Debug\ID3.csproj.GenerateResource.Cache
+D:\PROJECT\Năm 3\ID3_LTT\ID3\obj\Debug\ID3.exe
+D:\PROJECT\Năm 3\ID3_LTT\ID3\obj\Debug\ID3.pdb
+K:\HocTap\Machine_Learning\decision-tree-ID3-master\ID3\bin\Debug\ID3.exe.config
+K:\HocTap\Machine_Learning\decision-tree-ID3-master\ID3\bin\Debug\ID3.exe
+K:\HocTap\Machine_Learning\decision-tree-ID3-master\ID3\bin\Debug\ID3.pdb
+K:\HocTap\Machine_Learning\decision-tree-ID3-master\ID3\obj\Debug\ID3.csprojAssemblyReference.cache
+K:\HocTap\Machine_Learning\decision-tree-ID3-master\ID3\obj\Debug\ID3.About.resources
+K:\HocTap\Machine_Learning\decision-tree-ID3-master\ID3\obj\Debug\ID3.Main.resources
+K:\HocTap\Machine_Learning\decision-tree-ID3-master\ID3\obj\Debug\ID3.Properties.Resources.resources
+K:\HocTap\Machine_Learning\decision-tree-ID3-master\ID3\obj\Debug\ID3.csproj.GenerateResource.cache
+K:\HocTap\Machine_Learning\decision-tree-ID3-master\ID3\obj\Debug\ID3.csproj.CoreCompileInputs.cache
+K:\HocTap\Machine_Learning\decision-tree-ID3-master\ID3\obj\Debug\ID3.exe
+K:\HocTap\Machine_Learning\decision-tree-ID3-master\ID3\obj\Debug\ID3.pdb
+C:\Users\LNBN\Downloads\Nhom13_Xacdinhtinhtrangdotquy_Cayquyetdinh\Nhom13_Xacdinhtinhtrangdotquy\ID3\obj\Debug\ID3.csprojAssemblyReference.cache
+C:\Users\LNBN\Downloads\Nhom13_Xacdinhtinhtrangdotquy_Cayquyetdinh\Nhom13_Xacdinhtinhtrangdotquy\ID3\obj\Debug\ID3.exe
+C:\Users\LNBN\Downloads\Nhom13_Xacdinhtinhtrangdotquy_Cayquyetdinh\Nhom13_Xacdinhtinhtrangdotquy\ID3\obj\Debug\ID3.pdb
+C:\Users\LNBN\Downloads\Nhom13_Xacdinhtinhtrangdotquy_Cayquyetdinh\Nhom13_Xacdinhtinhtrangdotquy\ID3\bin\Debug\ID3.exe.config
+C:\Users\LNBN\Downloads\Nhom13_Xacdinhtinhtrangdotquy_Cayquyetdinh\Nhom13_Xacdinhtinhtrangdotquy\ID3\bin\Debug\ID3.exe
+C:\Users\LNBN\Downloads\Nhom13_Xacdinhtinhtrangdotquy_Cayquyetdinh\Nhom13_Xacdinhtinhtrangdotquy\ID3\bin\Debug\ID3.pdb
+C:\Users\LNBN\Downloads\Nhom13_Xacdinhtinhtrangdotquy_Cayquyetdinh\Nhom13_Xacdinhtinhtrangdotquy\ID3\obj\Debug\ID3.About.resources
+C:\Users\LNBN\Downloads\Nhom13_Xacdinhtinhtrangdotquy_Cayquyetdinh\Nhom13_Xacdinhtinhtrangdotquy\ID3\obj\Debug\ID3.Main.resources
+C:\Users\LNBN\Downloads\Nhom13_Xacdinhtinhtrangdotquy_Cayquyetdinh\Nhom13_Xacdinhtinhtrangdotquy\ID3\obj\Debug\ID3.Properties.Resources.resources
+C:\Users\LNBN\Downloads\Nhom13_Xacdinhtinhtrangdotquy_Cayquyetdinh\Nhom13_Xacdinhtinhtrangdotquy\ID3\obj\Debug\ID3.csproj.GenerateResource.cache
+C:\Users\LNBN\Downloads\Nhom13_Xacdinhtinhtrangdotquy_Cayquyetdinh\Nhom13_Xacdinhtinhtrangdotquy\ID3\obj\Debug\ID3.csproj.CoreCompileInputs.cache

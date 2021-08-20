@@ -1,0 +1,5111 @@
+gender	hypertension	heart_disease	ever_married	Residence_type	smoking_status	stroke
+Male	0	1	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	1	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	1	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	1	1	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	1	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Male	0	1	Yes	Urban	smokes	1
+Female	0	1	Yes	Urban	never smoked	1
+Female	1	0	Yes	Rural	never smoked	1
+Male	0	1	Yes	Urban	smokes	1
+Male	1	0	Yes	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	1
+Male	0	1	No	Urban	smokes	1
+Female	0	0	Yes	Rural	smokes	1
+Female	1	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	1	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	smokes	1
+Male	0	1	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	smokes	1
+Male	1	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	smokes	1
+Female	1	0	Yes	Urban	never smoked	1
+Male	0	1	Yes	Urban	smokes	1
+Male	0	0	No	Urban	never smoked	1
+Female	1	1	No	Rural	smokes	1
+Male	0	0	Yes	Rural	smokes	1
+Female	1	0	Yes	Rural	smokes	1
+Male	0	0	No	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	never smoked	1
+Male	0	1	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Male	1	0	Yes	Urban	smokes	1
+Male	1	0	Yes	Rural	never smoked	1
+Female	0	1	No	Urban	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	1	0	Yes	Rural	smokes	1
+Female	0	0	No	Urban	smokes	1
+Male	1	0	Yes	Urban	smokes	1
+Female	0	1	Yes	Rural	never smoked	1
+Female	1	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	1	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Urban	smokes	1
+Male	1	0	Yes	Urban	never smoked	1
+Female	1	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	smokes	1
+Female	1	0	Yes	Rural	never smoked	1
+Female	1	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	smokes	1
+Male	1	0	No	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	smokes	1
+Female	1	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	smokes	1
+Female	1	0	Yes	Rural	smokes	1
+Female	1	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	1	Yes	Rural	smokes	1
+Male	1	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	1	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	smokes	1
+Male	0	1	Yes	Rural	smokes	1
+Female	0	1	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	smokes	1
+Female	0	1	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	1	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	1	Yes	Rural	smokes	1
+Male	1	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	1	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	1	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	smokes	1
+Female	1	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	1	Yes	Rural	smokes	1
+Male	0	1	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Male	1	1	No	Rural	never smoked	0
+Male	1	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	1	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	smokes	1
+Male	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Female	1	0	Yes	Rural	never smoked	0
+Female	1	0	No	Urban	never smoked	0
+Male	1	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Male	1	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	smokes	1
+Male	0	1	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	1	0	Yes	Urban	never smoked	0
+Female	1	1	No	Urban	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	1	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	1	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	1	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	1	Yes	Urban	smokes	1
+Female	0	0	No	Urban	smokes	1
+Female	1	0	No	Urban	never smoked	0
+Female	1	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	smokes	1
+Male	1	0	Yes	Rural	never smoked	0
+Female	1	0	No	Urban	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	1	1	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	1	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	smokes	1
+Male	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	1
+Male	1	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Urban	smokes	1
+Male	1	1	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	smokes	1
+Male	0	1	Yes	Urban	smokes	1
+Female	1	1	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	smokes	1
+Male	0	1	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Male	1	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	smokes	1
+Male	1	1	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	smokes	1
+Male	1	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Urban	smokes	1
+Male	1	1	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	No	Urban	never smoked	1
+Male	1	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	1	No	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	1	1	Yes	Urban	smokes	1
+Female	1	1	Yes	Urban	smokes	1
+Male	0	1	Yes	Rural	never smoked	0
+Male	1	1	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Urban	smokes	1
+Male	0	0	No	Rural	smokes	1
+Female	0	1	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	1	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	1	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	smokes	1
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	1	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	1	1	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Rural	smokes	1
+Female	0	0	Yes	Rural	smokes	1
+Male	1	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	1	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	1	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	1	Yes	Urban	smokes	1
+Female	1	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	1	0	No	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	1	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	1	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Female	0	0	No	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	1	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	1	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Female	1	1	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Urban	smokes	1
+Female	1	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	smokes	1
+Female	1	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Male	0	0	No	Urban	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	1	1	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	1	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	1	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	1	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Male	1	0	Yes	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Female	1	0	Yes	Rural	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Male	0	0	No	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Male	0	1	Yes	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	1
+Male	0	0	No	Urban	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	No	Urban	never smoked	1
+Male	0	1	No	Rural	never smoked	1
+Female	1	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Rural	smokes	1
+Female	1	0	Yes	Rural	smokes	1
+Female	1	0	No	Rural	never smoked	1
+Female	1	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	No	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	1	0	Yes	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	1	Yes	Urban	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	No	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	smokes	1
+Male	1	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	No	Urban	smokes	1
+Male	0	0	No	Rural	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	1	0	Yes	Urban	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Male	0	0	No	Urban	never smoked	1
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Rural	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Male	0	0	No	Urban	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	No	Urban	never smoked	1
+Male	0	1	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Female	1	0	Yes	Rural	never smoked	1
+Male	0	0	No	Urban	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	1	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	No	Urban	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Male	0	0	No	Urban	smokes	1
+Female	1	0	Yes	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Female	0	1	Yes	Rural	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	1	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Female	1	0	Yes	Urban	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	No	Urban	never smoked	1
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Male	0	0	No	Rural	smokes	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	1	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	1	No	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	0	1	Yes	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Male	0	0	No	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	0	1	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	1	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	1	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	No	Rural	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	1	0	Yes	Rural	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Female	1	0	No	Rural	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Male	0	1	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	No	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Male	1	0	Yes	Urban	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Male	0	0	No	Urban	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Male	0	0	No	Urban	never smoked	1
+Male	0	0	No	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	1	0	Yes	Rural	never smoked	1
+Female	1	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	1	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	1	0	Yes	Rural	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Female	1	0	No	Rural	never smoked	1
+Male	0	0	No	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Urban	smokes	1
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	No	Urban	never smoked	1
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Male	0	0	No	Rural	smokes	1
+Female	1	0	Yes	Urban	never smoked	1
+Female	0	1	Yes	Rural	never smoked	1
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Female	1	0	Yes	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	1	0	No	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	No	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Rural	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	No	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Male	0	0	No	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	1	0	Yes	Urban	never smoked	1
+Male	0	0	No	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	1	Yes	Rural	never smoked	1
+Female	1	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	1	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	No	Urban	never smoked	1
+Male	0	0	No	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Female	0	0	No	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	No	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Male	0	0	Yes	Urban	smokes	1
+Male	1	0	Yes	Rural	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Female	1	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Rural	smokes	1
+Female	1	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	1	1	Yes	Rural	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Male	1	0	Yes	Rural	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	1	0	Yes	Urban	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Rural	smokes	1
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	1
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	1
+Female	0	1	Yes	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	1	0	Yes	Rural	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Male	0	0	No	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	1	0	Yes	Rural	smokes	1
+Male	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	1	0	Yes	Rural	never smoked	1
+Male	0	1	Yes	Urban	never smoked	0
+Male	1	1	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Male	1	0	Yes	Urban	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Male	0	0	Yes	Rural	smokes	1
+Female	1	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	1	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	No	Urban	never smoked	1
+Female	0	0	No	Rural	smokes	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	No	Urban	never smoked	1
+Female	0	0	No	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Male	0	1	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	1	0	No	Urban	smokes	1
+Male	0	1	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Male	0	1	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	1
+Female	1	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	No	Urban	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Female	0	0	No	Urban	smokes	1
+Male	0	0	No	Rural	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	No	Urban	never smoked	1
+Male	0	0	No	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Male	1	0	Yes	Rural	never smoked	1
+Male	0	0	No	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Rural	never smoked	1
+Male	1	1	Yes	Urban	never smoked	1
+Female	0	1	Yes	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	No	Rural	smokes	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Male	1	1	No	Rural	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Male	0	1	Yes	Rural	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	No	Urban	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Male	1	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	1	Yes	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	0	0	No	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	No	Urban	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Female	1	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	No	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Male	0	0	Yes	Rural	smokes	1
+Male	1	0	Yes	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Male	0	0	No	Urban	smokes	1
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Male	0	1	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	1
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Male	0	0	No	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	1
+Male	1	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Rural	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	1	1	Yes	Rural	never smoked	1
+Female	0	0	No	Rural	smokes	1
+Male	0	0	Yes	Urban	never smoked	1
+Male	0	0	Yes	Urban	never smoked	1
+Female	0	0	No	Rural	never smoked	1
+Male	1	1	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Male	0	0	No	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	1	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	1	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	1	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	1	0	No	Urban	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Male	1	1	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	1	No	Rural	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	1	Yes	Urban	never smoked	0
+Male	1	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	1	Yes	Rural	never smoked	0
+Male	1	1	Yes	Urban	never smoked	1
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	1	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	1	0	Yes	Rural	smokes	1
+Male	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	1	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	1	No	Urban	never smoked	0
+Male	0	1	Yes	Rural	never smoked	0
+Female	0	1	Yes	Rural	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	1	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	1	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	1	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	1	1	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	1	0	Yes	Rural	never smoked	0
+Male	0	1	Yes	Rural	never smoked	0
+Male	0	1	Yes	Urban	never smoked	1
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	1	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	smokes	1
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	1	1	Yes	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	1	1	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	1	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Female	0	1	Yes	Rural	smokes	1
+Female	0	0	No	Rural	smokes	1
+Male	0	0	No	Rural	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Female	0	1	Yes	Urban	smokes	1
+Female	0	1	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Male	1	0	Yes	Rural	never smoked	0
+Male	0	1	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	smokes	1
+Female	1	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	1	1	Yes	Urban	never smoked	1
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	1	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	smokes	1
+Male	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	1	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	1	0	Yes	Urban	smokes	1
+Male	0	1	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	1	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	1	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	0	1	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	1	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	1	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	1	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	1	Yes	Urban	never smoked	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	1	0	Yes	Rural	smokes	1
+Female	0	0	No	Urban	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	1	1	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	smokes	1
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	1	1	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Female	0	1	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	smokes	1
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	1	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	1	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	1	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	1	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	smokes	1
+Female	0	1	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	smokes	1
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	1	1	Yes	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	1	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	1	1	Yes	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	No	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	1	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	1	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	1	0	Yes	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Male	0	1	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	1	Yes	Rural	never smoked	0
+Male	0	1	Yes	Rural	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	1	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	1	Yes	Urban	smokes	1
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	smokes	1
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	smokes	1
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	1	No	Rural	smokes	1
+Female	1	0	No	Urban	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	1	1	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	smokes	1
+Female	1	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	1	1	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Male	1	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	1	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Female	0	0	No	Rural	smokes	1
+Male	0	1	Yes	Urban	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	1	0	No	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	1	Yes	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	1	0	No	Rural	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	1	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	0	1	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	1	Yes	Urban	never smoked	1
+Female	1	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	1	Yes	Urban	never smoked	0
+Male	0	1	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	1	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	1	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	1	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	1	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	1	Yes	Urban	never smoked	1
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	1	Yes	Rural	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	smokes	1
+Male	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	1	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	smokes	1
+Female	1	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	1	Yes	Rural	never smoked	0
+Female	1	0	Yes	Rural	smokes	1
+Female	0	0	No	Rural	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	1	No	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	1	0	Yes	Rural	smokes	1
+Male	0	1	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	1	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Female	1	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	1	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	smokes	1
+Male	1	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	1	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	1	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	1	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Male	1	1	No	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	1	0	No	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	1	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	1	1	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	1	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Urban	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Male	1	1	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	1	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	1	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	1	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	smokes	1
+Male	1	1	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Male	0	1	Yes	Urban	never smoked	1
+Female	0	0	No	Urban	never smoked	0
+Female	1	0	Yes	Urban	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	1	Yes	Urban	never smoked	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	1	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	1	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	1	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	1	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	1	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	1	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	1	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	1	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Male	1	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	1	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	1	1	No	Urban	smokes	1
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	1	1	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	1	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	1	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Male	0	1	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	1	Yes	Urban	never smoked	0
+Female	0	1	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	1	Yes	Rural	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	1	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Rural	smokes	1
+Male	0	0	No	Urban	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	1	0	Yes	Rural	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	1	1	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	1	0	No	Rural	smokes	1
+Female	0	1	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	1	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	0	1	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	1	1	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	1	Yes	Rural	smokes	1
+Male	0	0	No	Urban	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	1	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	1	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	1	1	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Urban	smokes	1
+Female	0	0	No	Urban	smokes	1
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	1	1	Yes	Rural	smokes	1
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	smokes	1
+Male	1	0	No	Urban	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	1	1	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	1	Yes	Rural	never smoked	0
+Male	0	1	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	1	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	1	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	1	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	1	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	1	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	1	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	1	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Female	1	1	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	1	1	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	1	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	1	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	1	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	1	Yes	Rural	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Urban	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Male	0	1	Yes	Urban	smokes	1
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	1	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Male	0	1	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	1	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	1	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	1	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Male	1	1	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	1	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	1	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	1	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	1	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Female	1	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	1	0	Yes	Rural	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	1	1	Yes	Rural	smokes	1
+Female	1	1	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	1	1	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	1	1	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	1	Yes	Urban	never smoked	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	1	Yes	Rural	never smoked	0
+Male	0	1	No	Rural	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	1	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	1	Yes	Rural	never smoked	0
+Female	0	1	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	1	1	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	smokes	1
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	1	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	1	0	Yes	Rural	smokes	1
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	1	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	1	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Male	0	1	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	1	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	smokes	1
+Male	0	0	No	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	No	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	1	0	Yes	Urban	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Male	1	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	1	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	1	0	Yes	Urban	smokes	1
+Male	1	1	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	1	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	1	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	1	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	1	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	1	Yes	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	No	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	1	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Male	1	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	smokes	1
+Male	0	0	No	Urban	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	1	1	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	1	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	1	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	1	0	Yes	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Female	0	1	Yes	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	1	0	Yes	Urban	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	1	1	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	1	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Rural	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	1	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	1	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	1	No	Rural	never smoked	0
+Male	0	1	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	smokes	1
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	1	Yes	Urban	never smoked	0
+Male	0	1	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	1	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	1	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	1	Yes	Urban	never smoked	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	0	1	No	Urban	smokes	1
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	1	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	1	1	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Male	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	0	1	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	1	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	1	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	1	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	1	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	1	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	1	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Male	1	1	Yes	Urban	never smoked	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Rural	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	1	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	smokes	1
+Male	0	1	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	1	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	0	1	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	1	0	Yes	Urban	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	1	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	1	1	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	1	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	1	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Male	0	1	Yes	Urban	smokes	1
+Male	1	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Rural	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Male	1	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	1	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	1	Yes	Urban	smokes	1
+Male	0	1	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	1	1	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Female	0	0	No	Urban	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Female	0	1	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	1	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	1	1	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	1	1	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	1	1	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	1	Yes	Urban	never smoked	0
+Male	0	1	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	1	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	1	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	1	Yes	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Female	1	1	Yes	Rural	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	1	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Male	1	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	1	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Male	1	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Female	1	1	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	1	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	1	0	Yes	Rural	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	1	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	1	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	1	0	Yes	Rural	smokes	1
+Male	1	0	No	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	1	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	1	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	1	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	1	Yes	Rural	smokes	1
+Male	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	1	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	smokes	1
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	smokes	1
+Male	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Rural	smokes	1
+Female	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Male	0	0	No	Rural	smokes	1
+Male	1	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Female	1	0	Yes	Rural	smokes	1
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	No	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Urban	never smoked	0
+Male	0	0	No	Urban	never smoked	0
+Male	0	0	Yes	Rural	smokes	1
+Male	1	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Female	0	0	No	Urban	never smoked	0
+Female	0	0	No	Rural	never smoked	0
+Female	1	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
+Female	0	0	Yes	Rural	never smoked	0
+Male	0	0	Yes	Rural	never smoked	0
+Female	0	0	Yes	Urban	never smoked	0
